@@ -1,0 +1,12 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background: url('../img/home/IMAGE.png');
+    background-size: cover;
+    background-position: center;
+    width: 1440px;
+    height: 9266px;
+}
